@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Local Change: Adding a new feature.");
         System.out.println("Login feature: User authentication Logic.");
         System.out.println("New line from develop branch for UI update.");
+        System.out.println("Logout feature: User logoug process.");
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
         }
